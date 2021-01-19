@@ -34,27 +34,27 @@ nicolasgaofeng@gmail.com
 
 ## 其他
 
-[Java从入门到放弃](https://github.com/Nicolas-gaofeng/Salute_Java)
+[菜鸟学习Java-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Java)
 
-[Python从入门到放弃](https://github.com/Nicolas-gaofeng/Salute_Python)
+[菜鸟学习Python-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Python)
 
-[知识图谱从入门到放弃](https://github.com/Nicolas-gaofeng/Salute_Knowledge_Graph)
+[菜鸟学习知识图谱-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Knowledge_Graph)
 
-[Docsify从入门到放弃](https://github.com/Nicolas-gaofeng/Salute_Docsify)
+[菜鸟学习Docsify-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Docsify)
 
-[Git从入门到放弃](https://github.com/Nicolas-gaofeng/Salute_Git)
+[菜鸟学习Git-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Git)
 
-[Algorithm从入门到放弃](https://github.com/Nicolas-gaofeng/Salute_Algorithm)
+[菜鸟学习算法-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Algorithm)
 
-[机器学习从入门到放弃](https://github.com/Nicolas-gaofeng/Salute_Machine_Learning)
+[菜鸟学习机器学习-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Machine_Learning)
 
-[深度学习从入门到放弃](https://github.com/Nicolas-gaofeng/Salute_Deep_Learning)
+[菜鸟学习深度学习-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Deep_Learning)
 
-[Node.js从入门到放弃](https://github.com/Nicolas-gaofeng/Salute_Nodejs)
+[N菜鸟学习Node.js-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Nodejs)
 
-[Linux从入门到放弃](https://github.com/Nicolas-gaofeng/Salute_Linux)
+[菜鸟学习Linux-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Linux)
 
-[数学从入门到放弃](https://github.com/Nicolas-gaofeng/Salute_Math)
+[菜鸟学习数学-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Math)
 
 [学习IT路上遇到的问题](https://github.com/Nicolas-gaofeng/Salute_Problem)
 
