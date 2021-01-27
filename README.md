@@ -6,15 +6,9 @@
 
 ## 写在前面
 
-- 关于封面
 
-  我是中国人，当然要打出我们的大国宝啦。另外这是文明致敬操作系统的一种方式，搭配程序员都爱的学习网站logo风格，别有一番滋味在心头~
 
-  ![鲁迅](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105185300.jpeg)
-
-  
-
-- 本地编译：
+- 本地编译环境：
 
   Markdown编辑器使用[Typora](https://typora.io/)
 
@@ -22,13 +16,21 @@
 
   
 
-- 联系我：
+- 在线编译环境：
 
-  微信：
+  - [Docsify](https://docsify.js.org/#/)
+  - [Github Page](https://pages.github.com/)
+  - 基于[Gitee](https://gitee.com/)搭建的图床（[传送门](https://nicolas-gaofeng.github.io/Salute_Docsify/#/pic/pic)）
+
+  
+
+- 我的联系方式：
+
+  **微信**：
 
   intereting1366
 
-  邮箱：
+  **邮箱**：
 
   gaofeng_zgf@163.com
 
@@ -38,9 +40,9 @@
 
 - 声明：
 
-  这是一份自己学习操作系统从入门到跑路的记录。
-
-  如果本仓库存在的内容对您和您的利益产生损害，请立即私信，我们将在最短时间内对其做出处理。
+  - 这是一份本人学习操作系统从入门到跑路的记录。
+- 内容还在不断更新中。
+  - 如果本仓库存在的内容对您和您的利益产生损害，请立即私信，我们将在最短时间内对其做出处理。
 
   
 
