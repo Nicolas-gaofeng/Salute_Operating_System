@@ -52,6 +52,46 @@
 
   
 
+## 其他学习路径
+
+> 编程
+
+- [菜鸟学习Java-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Java)
+
+- [菜鸟学习Python-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Python)
+
+- [菜鸟学习算法-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Algorithm)
+
+- [菜鸟学习数据库-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Database)
+
+- [菜鸟学习Node.js-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Nodejs)
+
+  
+
+> 人工智能
+
+- [菜鸟学习机器学习-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Machine_Learning)
+
+- [菜鸟学习深度学习-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Deep_Learning)
+
+- [菜鸟学习知识图谱-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Knowledge_Graph)
+
+
+
+> 操作系统
+
+- [菜鸟学习操作系统-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Operating_System)
+- [菜鸟学习Linux-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Linux)
+
+
+
+> 其他
+
+- [菜鸟学习数学-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Math)
+- [菜鸟学习Git-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Git)
+- [菜鸟学习Docsify-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Docsify)
+
+- [菜鸟学习IT路上遇到的问题](https://github.com/Nicolas-gaofeng/Salute_Problem)
 
 ## 访问地址
 
